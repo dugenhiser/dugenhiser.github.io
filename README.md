@@ -6,3 +6,5 @@ This will be used for creating experimental webpages. Mainly my Gaminomicon, whi
 #rts
 #racing
 #RPG
+#Platform
+#puzzle
